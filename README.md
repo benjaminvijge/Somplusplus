@@ -1,7 +1,5 @@
 # Som++
 
-<img width="500" height="500" alt="som++ icon" src="https://github.com/user-attachments/assets/bf3f66a4-49cd-4ae1-90af-d7f628bf28d1" />
-
 De ultieme all-in-one browserextensie voor Somtoday — binnenkort verkrijgbaar.
 
 > [!WARNING]
