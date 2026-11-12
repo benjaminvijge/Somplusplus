@@ -1,5 +1,7 @@
 # Som++
-
+<p align="center">
+  <img src="https://countdowntimer.ru/countdown/index.php?day=23&month=11&year=2026&hour=0&minute=0&second=0&text=Tot+23+november&bg_color=000000&txt_color=ffffff" alt="Countdown naar 23 november 2026" />
+</p>
 De ultieme all-in-one browserextensie voor Somtoday — binnenkort verkrijgbaar.
 
 > [!WARNING]
