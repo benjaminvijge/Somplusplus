@@ -1,12 +1,18 @@
 # Som++
-<p align="center">
-  <img src="https://countdowntimer.ru/countdown/index.php?day=23&month=11&year=2026&hour=0&minute=0&second=0&text=Tot+23+november&bg_color=000000&txt_color=ffffff" alt="Countdown naar 23 november 2026" />
-</p>
-De ultieme all-in-one browserextensie voor Somtoday — binnenkort verkrijgbaar.
+
+<div align="center">
+
+# 🚀 Release op 23 november!
+
+<a href="https://somplusplus.nl" target="_blank">
+  <img src="https://img.shields.v/badge/Bezoek%20somplusplus.nl-Idee%C3%BAn%20Insturen%20&%20Meer-0052b4?style=for-the-badge&logo=world&logoColor=white" alt="Bezoek somplusplus.nl">
+</a>
+
+</div>
 
 > [!WARNING]
-> **Status: In ontwikkeling (Release komt eraan)**
-> We leggen momenteel de laatste hand aan de eerste officiële release van **Som++**. Binnenkort kun je hier de extensie downloaden en direct aan de slag.
+> **Status: In ontwikkeling**
+> We leggen momenteel de laatste hand aan de eerste officiële release van **Som++**, die op **23 november** verschijnt. Houd deze repository en onze website goed in de gaten!
 
 ## Wat je alvast kunt verwachten
 
@@ -16,10 +22,10 @@ Hoewel we nog niet alles verklappen vóór de lancering, kunnen we dit alvast me
 - **Veel nieuwe features** — Handige extra functies die jouw dagelijkse gebruik van Somtoday slimmer en sneller maken.
 - **Perfectionisme & Bugfixes** — Tot in de kleinste details gepolijst en ontdaan van bekende irritaties en bugs.
 - **Ingebouwde Somtoday Mod** — Volledig geïntegreerde ondersteuning voor de bekende **Somtoday Mod** van **Jona Zwetsloot**, direct klaar voor gebruik.
-- **En nog veel meer** — Houd deze repository in de gaten voor de lancering.
+- **En nog veel meer** — Houd deze repository in de gaten voor de lancering op 23 november.
 
 > [!NOTE]
-> We zijn achter de schermen hard bezig om alles tot in de puntjes af te ronden. Zodra de eerste stabiele versie klaarstaat, verschijnt hier direct de installatiehandleiding.
+> We zijn achter de schermen hard bezig om alles tot in de puntjes af te ronden. Zodra de extensie op 23 november live gaat, verschijnt hier direct de installatiehandleiding.
 
 ## Privacy & Veiligheid
 
