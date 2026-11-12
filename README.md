@@ -19,6 +19,21 @@ Hoewel we nog niet alles verklappen vóór de lancering, kunnen we dit alvast me
 > [!NOTE]
 > We zijn achter de schermen hard bezig om alles tot in de puntjes af te ronden. Zodra de eerste stabiele versie klaarstaat, verschijnt hier direct de installatiehandleiding.
 
+## Privacy & Veiligheid
+
+- **100% Lokaal:** Alle gegevens en instellingen worden uitsluitend lokaal in je eigen browser opgeslagen.
+- **Geen tracking of reclame:** Som++ bevat absoluut geen trackers, advertenties, data-scrapers of andere vormen van gegevensverzameling.
+- **Altijd gratis:** Deze extensie is en blijft volledig gratis te gebruiken.
+- **Officiële bronnen:** Som++ wordt uitsluitend ontwikkeld en uitgebracht door **Benjamin Vijge (Roboben)** en **Daniel Klein Gunnewiek**. Download Som++ alleen via onze officiële kanalen; als iemand zich voordoet als ons of een aangepaste versie via derden aanbiedt, kunnen wij de veiligheid daarvan absoluut niet garanderen.
+
+## Disclaimer & Aansprakelijkheid
+
+> [!CAUTION]
+> **Onafhankelijk project — Gebruik op eigen risico**
+> **Som++** is een onafhankelijk project en is op geen enkele wijze verbonden aan, geassocieerd met, geautoriseerd door, onderschreven door of officieel gelieerd aan **Somtoday** of **Topicus Learning B.V.**
+> 
+> Wij zijn niet verantwoordelijk als het gebruik van deze extensie mogelijk in strijd is met de algemene voorwaarden (Terms of Service) van Somtoday of Topicus Learning B.V. Door Som++ te downloaden en te gebruiken, verklaar je dat je dit volledig op eigen risico doet en zelf aansprakelijk bent voor eventuele gevolgen.
+
 ## Makers & Credits
 
 - **Som++ Ontwikkeling:** Benjamin Vijge (Roboben) & Daniel Klein Gunnewiek
