@@ -5,7 +5,13 @@
 # 🚀 Release op 23 november!
 
 <a href="https://somplusplus.nl" target="_blank">
-  <img src="https://img.shields.v/badge/Bezoek%20somplusplus.nl-Idee%C3%BAn%20Insturen%20&%20Meer-0052b4?style=for-the-badge&logo=world&logoColor=white" alt="Bezoek somplusplus.nl">
+  <img src="https://img.shields.io/badge/Bezoek%20somplusplus.nl-Idee%C3%BAn%20Insturen%20&%20Meer-0052b4?style=for-the-badge&logo=world&logoColor=white" alt="Bezoek somplusplus.nl">
+</a>
+
+<br><br>
+
+<a href="https://ko-fi.com/somplusplus" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-Steun%20dit%20project-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Donatie">
 </a>
 
 </div>
@@ -33,6 +39,12 @@ Hoewel we nog niet alles verklappen vóór de lancering, kunnen we dit alvast me
 - **Geen tracking of reclame:** Som++ bevat absoluut geen trackers, advertenties, data-scrapers of andere vormen van gegevensverzameling.
 - **Altijd gratis:** Deze extensie is en blijft volledig gratis te gebruiken.
 - **Officiële bronnen:** Som++ wordt uitsluitend ontwikkeld en uitgebracht door **Benjamin Vijge (Roboben)** en **Daniel Klein Gunnewiek**. Download Som++ alleen via onze officiële kanalen; als iemand zich voordoet als ons of een aangepaste versie via derden aanbiedt, kunnen wij de veiligheid daarvan absoluut niet garanderen.
+
+## Support het project
+
+Vind je Som++ geweldig en wil je ons helpen om het project te blijven verbeteren? Je kunt ons een koffietje buyen via Ko-fi!
+
+[![Ko-fi](https://img.shields.io/badge/Steun%20ons%20op-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/somplusplus)
 
 ## Disclaimer & Aansprakelijkheid
 
