@@ -10,9 +10,7 @@
 
 <br><br>
 
-<a href="https://ko-fi.com/somplusplus" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-Steun%20dit%20project-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Donatie">
-</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y4W02ASASU)
 
 </div>
 
@@ -42,9 +40,9 @@ Hoewel we nog niet alles verklappen vóór de lancering, kunnen we dit alvast me
 
 ## Support het project
 
-Vind je Som++ geweldig en wil je ons helpen om het project te blijven verbeteren? Je kunt ons een koffietje buyen via Ko-fi!
+Vind je Som++ geweldig en wil je ons helpen om het project te blijven verbeteren? Je kunt ons steunen via Ko-fi!
 
-[![Ko-fi](https://img.shields.io/badge/Steun%20ons%20op-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/somplusplus)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y4W02ASASU)
 
 ## Disclaimer & Aansprakelijkheid
 
