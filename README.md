@@ -1,11 +1,14 @@
-# Som++
+# Som++ (v1.0.0 — Public Beta)
 
 <div align="center">
 
-# 🚀 Release op 23 november!
+**De ultieme open-source uitbreiding voor Somtoday.**
 
 <a href="https://somplusplus.nl" target="_blank">
-  <img src="https://img.shields.io/badge/Bezoek%20somplusplus.nl-Idee%C3%BAn%20Insturen%20&%20Meer-0052b4?style=for-the-badge&logo=world&logoColor=white" alt="Bezoek somplusplus.nl">
+  <img src="https://img.shields.io/badge/Website-somplusplus.nl-0052b4?style=for-the-badge&logo=world&logoColor=white" alt="Website somplusplus.nl">
+</a>
+<a href="https://download.somplusplus.nl" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20&%20Installatie-download.somplusplus.nl-2ea44f?style=for-the-badge" alt="Download Som++">
 </a>
 
 <br><br>
@@ -14,52 +17,59 @@
 
 </div>
 
+> [!IMPORTANT]
+> **Status: v1.0.0 Public Beta**  
+> De eerste officiële release (**v1.0.0**) is nu live! Houd er rekening mee dat deze versie in de praktijk functioneert als een **public beta**. De extensie bevat nog veel bugs en ruwe randjes, maar we werken achter de schermen keihard door: verwacht de komende tijd **heel veel updates**, bugfixes en nieuwe functies!
+
 > [!WARNING]
-> **Status: In ontwikkeling**
-> We leggen momenteel de laatste hand aan de eerste officiële release van **Som++**, die op **23 november** verschijnt. Houd deze repository en onze website goed in de gaten!
+> **ALLEEN CHROMIUM — GEEN FIREFOX**  
+> Som++ werkt uitsluitend op **Chromium-gebaseerde browsers** (zoals Google Chrome, Microsoft Edge, Brave, Opera en Vivaldi). Mozilla Firefox wordt op dit moment **niet** ondersteund.
 
-## Wat je alvast kunt verwachten
+---
 
-Hoewel we nog niet alles verklappen vóór de lancering, kunnen we dit alvast met zekerheid garanderen:
+## Wat is Som++?
+**Som++** is een onafhankelijke browserextensie (ontwikkeld door **Benjamin Vijge** en **Daniel Klein Gunnewiek**) die jouw Somtoday-omgeving voorziet van een moderne uitstraling, handige extra pagina's, een vernieuwd thema-systeem en tal van aanpassingen.
 
-- **Vernieuwde UI & Layouts** — Een strakkere, modernere en overzichtelijkere interface voor Somtoday.
-- **Veel nieuwe features** — Handige extra functies die jouw dagelijkse gebruik van Somtoday slimmer en sneller maken.
-- **Perfectionisme & Bugfixes** — Tot in de kleinste details gepolijst en ontdaan van bekende irritaties en bugs.
-- **Ingebouwde Somtoday Mod** — Volledig geïntegreerde ondersteuning voor de bekende **Somtoday Mod** van **Jona Zwetsloot**, direct klaar voor gebruik.
-- **En nog veel meer** — Houd deze repository in de gaten voor de lancering op 23 november.
+### Belangrijkste functies in v1.0.0
+* **Vernieuwd thema-systeem:** Pas het uiterlijk van Somtoday volledig aan naar jouw eigen smaak.
+* **Vernieuwde UI & Tweaks:** Een strakkere interface met talloze kleine verbeteringen door heel het systeem.
+* **Nieuwe pagina's & mogelijkheden:** Extra overzichten en functies die standaard in Somtoday ontbreken.
+* **Add-on ondersteuning (binnenkort):** Vanaf begin december komt de ingebouwde Add-on Browser beschikbaar waarmee je extra uitbreidingen van **Som++ Add-ons** kunt installeren.
 
-> [!NOTE]
-> We zijn achter de schermen hard bezig om alles tot in de puntjes af te ronden. Zodra de extensie op 23 november live gaat, verschijnt hier direct de installatiehandleiding.
+---
 
-## Privacy & Veiligheid
+## Downloaden & Installeren
+Wil je direct aan de slag met Som++ v1.0.0?  
+Ga naar **[download.somplusplus.nl](https://download.somplusplus.nl)** voor de laatste release-bestanden en de stap-voor-stap installatie-instructies.
 
-- **100% Lokaal:** Alle gegevens en instellingen worden uitsluitend lokaal in je eigen browser opgeslagen.
-- **Geen tracking of reclame:** Som++ bevat absoluut geen trackers, advertenties, data-scrapers of andere vormen van gegevensverzameling.
-- **Altijd gratis:** Deze extensie is en blijft volledig gratis te gebruiken.
-- **Officiële bronnen:** Som++ wordt uitsluitend ontwikkeld en uitgebracht door **Benjamin Vijge (Roboben)** en **Daniel Klein Gunnewiek**. Download Som++ alleen via onze officiële kanalen; als iemand zich voordoet als ons of een aangepaste versie via derden aanbiedt, kunnen wij de veiligheid daarvan absoluut niet garanderen.
+---
+
+## Privacy & Gegevensgebruik
+* **100% Lokaal & Offline:** De standaardversie van Som++ maakt **geen verbinding met het internet**. Al jouw instellingen, thema's en voorkeuren blijven lokaal in je eigen browser opgeslagen.
+* **Geen tracking in de extensie:** De extensie bevat geen trackers, analytics of advertenties. (Op onze website en downloadpagina kunnen wel advertenties of trackers van derden/partners staan ter bekostiging van het project).
+* **Bèta-builds & Add-ons:** Alleen speciale besloten bèta-builds maken verbinding met authenticatieservers voor toegangscontrole. De toekomstige Add-on Browser maakt verbinding met **Som++ Add-ons**; houd er rekening mee dat add-ons (van ons of derden) zelf verbinding met het internet kunnen maken.
+
+Lees de volledige voorwaarden en privacyverklaring op **[somplusplus.nl](https://somplusplus.nl)**.
+
+---
 
 ## Support het project
-
-Vind je Som++ geweldig en wil je ons helpen om het project te blijven verbeteren? Je kunt ons steunen via Ko-fi!
+Vind je Som++ tof en wil je helpen om de ontwikkeling van nieuwe updates en add-ons te versnellen? Steun ons dan via Ko-fi! Supporters krijgen binnenkort ook toegang tot exclusieve extra add-ons.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y4W02ASASU)
 
+---
+
+## Licentie & Credits
+* **Licentie:** Som++ is gelicentieerd onder de **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** licentie. Commercieel gebruik of verkoop is strikt verboden. Zie het [LICENSE](./LICENSE)-bestand voor alle details.
+* **Hoofdontwikkeling:** Benjamin Vijge & Daniel Klein Gunnewiek.
+* **Credits Somtoday Mod:** Onderdelen van Som++ zijn gebaseerd op en aangepast van het originele werk van **Jona Zwetsloot** (*Somtoday Mod*, eveneens onder CC BY-NC-SA 4.0).
+* **Bèta-testing:** Speciale dank aan **Lukas de Bruijn** voor het uitgebreid testen van v1.0.0.
+
+---
+
 ## Disclaimer & Aansprakelijkheid
-
-> [!CAUTION]
-> **Onafhankelijk project — Gebruik op eigen risico**
-> **Som++** is een onafhankelijk project en is op geen enkele wijze verbonden aan, geassocieerd met, geautoriseerd door, onderschreven door of officieel gelieerd aan **Somtoday** of **Topicus Learning B.V.**
+> **Onafhankelijk project — Gebruik op eigen risico**  
+> **Som++** (en **Som++ Add-ons**) is op geen enkele wijze verbonden aan, geassocieerd met, geautoriseerd door of gelieerd aan **Somtoday** of **Topicus Learning B.V.**  
 > 
-> Wij zijn niet verantwoordelijk als het gebruik van deze extensie mogelijk in strijd is met de algemene voorwaarden (Terms of Service) van Somtoday of Topicus Learning B.V. Door Som++ te downloaden en te gebruiken, verklaar je dat je dit volledig op eigen risico doet en zelf aansprakelijk bent voor eventuele gevolgen.
-
-## Makers & Credits
-
-- **Som++ Ontwikkeling:** Benjamin Vijge (Roboben) & Daniel Klein Gunnewiek
-- **Ingebouwde Somtoday Mod:** Gebaseerd op en aangepast van het originele werk van **Jona Zwetsloot** (gelicentieerd onder CC BY-NC-SA 4.0).
-
-## Licentie
-
-> [!IMPORTANT]
-> **Som++** is gelicentieerd onder de [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) licentie, conform de ShareAlike-voorwaarden van de geïntegreerde Somtoday Mod van Jona Zwetsloot. Zie het [LICENSE.md](./LICENSE.md)-bestand voor de volledige voorwaarden.
-
-*Disclaimer: Deze software wordt aangeboden "as-is", zonder enige vorm van garantie.*
+> Het gebruik van deze extensie geschiedt volledig op eigen risico. De makers van Som++ zijn niet aansprakelijk voor eventuele bugs, dataverlies, schade aan software/apparaten, of mogelijke gevolgen met betrekking tot de gebruiksvoorwaarden van Somtoday of jouw onderwijsinstelling.
